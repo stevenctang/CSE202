@@ -1,0 +1,29 @@
+Script started on Fri May 29 17:15:42 2015
+[?1034hbash-3.2$ c++ main.cpp
+bash-3.2$ ./a.out
+The vector sorted is: 
+5
+10
+15
+20
+25
+30
+35
+40
+Enter the number you would like to search for to display the position
+1
+-1
+15
+2
+18
+-1
+40
+7
+30
+5
+50
+-1
+^Dbash-3.2$ exit
+exit
+
+Script done on Fri May 29 17:16:07 2015

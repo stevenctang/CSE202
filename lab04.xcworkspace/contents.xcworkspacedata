@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:lab04/Person_main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:lab04/Person.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:lab04/Personc.h">
+   </FileRef>
+   <FileRef
+      location = "group:lab04/makefile">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,27 @@
+Script started on Mon May 25 15:16:12 2015
+[?1034hbash-3.2$ c++ palindrome.cpp
+bash-3.2$ ./a.out
+Enter a string: Rotor
+'Rotor' is a palindrome.
+bash-3.2$ ./a.out
+Enter a string: thissiht
+'thissiht' is a palindrome.
+bash-3.2$ ./a.out
+Enter a string: th issiht
+'th issiht' is a palindrome.
+bash-3.2$ ./a.out
+Enter a string: A man, a plan, a canal - Panama! 
+'A man, a plan, a canal - Panama! ' is a palindrome.
+bash-3.2$ ./a.out
+Enter a string: a man a plan a canal panama
+'a man a plan a canal panama' is a palindrome.
+bash-3.2$ ./a.out
+Enter a string: Madam, I’m Adam
+'Madam, I'm Adam' is a palindrome.
+bash-3.2$ ./a.out
+Enter a string: This is not a palindrome
+'This is not a palindrome' is not a palindrome.
+bash-3.2$ exit
+exit
+
+Script done on Mon May 25 15:18:34 2015

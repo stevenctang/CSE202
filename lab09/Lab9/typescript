@@ -1,0 +1,15 @@
+Script started on Sun Jun  7 23:17:24 2015
+[?1034hbash-3.2$ c++ Stack_test.cpp
+bash-3.2$ ./a.out
+1
+2
+3
+4
+to write something Yoda said 
+Container is empty, can't pop anything.
+Container is empty so there's no top.
+
+bash-3.2$ exit
+exit
+
+Script done on Sun Jun  7 23:17:49 2015

@@ -1,0 +1,12 @@
+Script started on Wed Apr 15 10:56:50 2015
+[?1034hbash-3.2$ make
+g++ -c Bank_main.cpp
+g++ -c Bank.cpp
+g++ -c Account.cpp
+g++ -o Bank Bank_main.o Bank.o Account.o
+bash-3.2$ ./Bank
+Invalid account: CH Your savings is: 1010. Your checkings is: 125
+bash-3.2$ exit
+exit
+
+Script done on Wed Apr 15 10:56:57 2015

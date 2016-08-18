@@ -1,0 +1,19 @@
+Script started on Mon May 18 21:58:58 2015
+[?1034hbash-3.2$ g++ count.cpp -o count
+bash-3.2$ ./count
+Please enter the file you would like to open: 
+creative
+Couldn't open the file creative
+bash-3.2$ ./count
+Please enter the file you would like to open: 
+test
+3 11 56
+Please enter the file you would like to open: 
+count.cpp
+61 289 2074
+Please enter the file you would like to open: 
+^D
+bash-3.2$ exit
+exit
+
+Script done on Mon May 18 21:59:18 2015

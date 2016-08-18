@@ -1,0 +1,54 @@
+Script started on Mon Apr 20 18:33:19 2015
+[?1034hbash-3.2$ c++ vector.cpp
+bash-3.2$ ./a.out
+ Please enter contents of vector A, enter -1 when done
+1
+5
+3
+8
+-1
+ Now please enter contents of vector B, enter -1 when done
+9
+2
+4
+10
+13
+222
+-1
+The numbers entered were: 
+1
+5
+3
+8
+9
+2
+4
+10
+13
+222
+The numbers entered were merged together as: 
+1
+9
+5
+2
+3
+4
+8
+10
+13
+222
+The numbers entered were sorted and merged together as: 
+1
+2
+3
+4
+5
+8
+9
+10
+13
+222
+bash-3.2$ exit
+exit
+
+Script done on Mon Apr 20 18:33:49 2015

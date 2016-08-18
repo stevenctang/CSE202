@@ -1,0 +1,36 @@
+Script started on Wed May  6 12:50:35 2015
+[?1034hbash-3.2$ make
+g++ -c Person.cpp
+g++ -c Person_main.cpp
+g++ -o Person Person.o Person_main.o
+bash-3.2$ ./Person
+Enter the names, terminate with -1: Jackie
+Enter another name, end with -1: Jack
+Enter another name, end with -1: Amanda
+Enter another name, end with -1: Rod
+Enter another name, end with -1: Connie
+Enter another name, end with -1: -1  Rod
+Rod is a duplicate, please enter another name. 
+Amanda
+Amanda is a duplicate, please enter another name. 
+-1
+Who is Jackie's best friend? Jack
+Jackie's best friend is Jack
+Who is Jack's best friend? Sam
+Couldn't find best friend Sam. Please enter another name.
+Jackie
+Who is Amanda's best friend? Jack
+Amanda's best friend is Jack
+Who is Rod's best friend? Connie
+Rod's best friend is Connie
+Who is Connie's best friend? Rod
+Connie's best friend is Rod
+Jackie    Jack       0
+Jack                 2
+Amanda    Jack       0
+Rod       Connie     1
+Connie    Rod        1
+bash-3.2$ exit
+exit
+
+Script done on Wed May  6 12:51:12 2015

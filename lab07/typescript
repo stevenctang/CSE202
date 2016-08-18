@@ -1,0 +1,12 @@
+Script started on Mon May 25 11:19:41 2015
+[?1034hbash-3.2$ c++ palindrome.coo[K[Kpp
+[1mpalindrome.cpp:1:1: [0m[0;1;31merror: [0m[1munknown type name 's'[0m
+s
+[0;1;32m^
+[0m[1mpalindrome.cpp:2:1: [0m[0;1;31merror: [0m[1mexpected unqualified-id[0m
+[0;1;32m^
+[0m2 errors generated.
+bash-3.2$ c++ palindrome.cpp[C[C[C[C[C[C[C[C[C[Cexit[K./Worker[4Pexit
+exit
+
+Script done on Mon May 25 11:19:58 2015

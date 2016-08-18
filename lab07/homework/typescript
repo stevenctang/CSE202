@@ -1,0 +1,16 @@
+Script started on Mon May 25 10:48:40 2015
+[?1034hbash-3.2$ make
+g++ -c worker.cpp
+g++ -c main.cpp
+g++ -c salaryworker.cpp
+g++ -c hourlyworker.cpp
+g++ -o Worker worker.o main.o salaryworker.o hourlyworker.o
+bash-3.2$ ./Worker
+Steven is a hourly worker that earns 30$. He worked 30 hours to get a paycheck of 900$
+John is a hourly worker that earns 45$. He worked 45 hours to get an overtime paycheck of 2137.5$.
+Tyson is a salaried worker that earns 40$. He has worked 20 hours to get a paycheck of 800$.
+Henry is a salaried worker that earns 50$. He has worked 45 hours to get a paycheck of 2250$.
+bash-3.2$ exit
+exit
+
+Script done on Mon May 25 10:48:51 2015

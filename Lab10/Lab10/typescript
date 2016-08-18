@@ -1,0 +1,30 @@
+Script started on Thu Jun  4 23:38:10 2015
+[?1034hbash-3.2$ c++ Simple_map.cpp
+bash-3.2$ ./a.out
+Enter a month name: Mars 
+This is a 31-day month.
+bash-3.2$ ./a.out
+Enter a month name: Apr
+This is a non-31-day month or it is an invalid month name.
+bash-3.2$ ./a.out
+Enter a month name: xxx
+This is a non-31-day month or it is an invalid month name.
+bash-3.2$ ./a.out
+Enter a month name: March
+This is a 31-day month.
+bash-3.2$ ./a.out
+Enter a month name: April
+This is a non-31-day month or it is an invalid month name.
+bash-3.2$ ./a.out
+Enter a month name: Feb
+This is a non-31-day month or it is an invalid month name.
+bash-3.2$ ./a.out
+Enter a month name: February
+This is a non-31-day month or it is an invalid month name.
+bash-3.2$ ./a.out
+Enter a month name: January
+This is a 31-day month.
+bash-3.2$ exit
+exit
+
+Script done on Thu Jun  4 23:39:20 2015

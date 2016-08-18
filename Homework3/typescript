@@ -1,0 +1,40 @@
+Script started on Mon Jun 15 13:44:42 2015
+[?1034hbash-3.2$ c++ main.cpp
+bash-3.2$ ./a.out
+What type of appointment is it? (1)Daily, (2)Monthly, (3)Onetime.
+1
+Now please enter the description of your DAILY appointment: 
+Basketball
+Please enter the hour on which your appointment occurs on: 
+10
+Please enter minutes: 
+20
+Add another appointment? (1)Daily, (2)Monthly, (3)Onetime. Enter -1 to exit
+3
+Now lease enter the description of your ONETIME appointment: 
+Hospital
+Please enter the year you would like to set an appointment on: 
+1 2015
+Please enter the month you would like to set an appointment on: 
+12
+Please enter the day you would like to set an appointment on: 
+25
+Please enter the hour on which your appointment occurs on: 
+10
+Please enter minutes: 
+20
+Add another appointment? (1)Daily, (2)Monthly, (3)Onetime. Enter -1 to exit
+-1
+Enter a date to check what appointments there are.
+Enter the year: 
+2015
+Enter the month: 
+25  12
+Enter a day: 
+20 5
+There is a daily appointment:  at 00
+No appointments
+bash-3.2$ exit
+exit
+
+Script done on Mon Jun 15 13:45:17 2015

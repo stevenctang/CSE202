@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Homework3"
+      name = "Homework3">
+      <FileRef
+         location = "group:Appointment.h">
+      </FileRef>
+      <FileRef
+         location = "group:Daily.h">
+      </FileRef>
+      <FileRef
+         location = "group:Monthly.h">
+      </FileRef>
+      <FileRef
+         location = "group:Onetime.h">
+      </FileRef>
+      <FileRef
+         location = "group:Main.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:makefile">
+      </FileRef>
+   </Group>
+</Workspace>

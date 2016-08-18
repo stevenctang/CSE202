@@ -1,0 +1,20 @@
+Script started on Mon May 11 17:19:27 2015
+[?1034hbash-3.2$ make
+g++ -c Instructor.cpp
+g++ -c Person.cpp
+g++ -c Student.cpp
+g++ -c main.cpp
+g++ -o Person Instructor.o Person.o Student.o main.o
+bash-3.2$ ./Person
+Steven 3/16/75
+Jazmin 4/15/85
+    Student, Major: CS
+Mr. Paul 5/24/93
+    Instructor, Salary: 75000
+Ms. Lily 2/1/80
+    Instructor, Salary: 80000
+Paul 5/24/93
+bash-3.2$ exit
+exit
+
+Script done on Mon May 11 17:19:43 2015
